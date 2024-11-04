@@ -1,0 +1,33 @@
+#Here write your words combination you want to restrict from players in the chat window
+#TIP: one per line as followed;
+www
+http
+dot
+.se
+.com
+.nu
+.org
+.co
+.net
+.biz
+.es
+.eu
+.tk
+.com.ar
+.co.cc
+.sh
+.me
+.tv
+.io
+.li
+.cu.cc
+.nl
+.de
+.int
+.gov
+.us
+.cf
+.it
+.ly
+.po
+.st

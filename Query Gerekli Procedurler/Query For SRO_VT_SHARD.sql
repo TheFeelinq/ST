@@ -1,0 +1,3 @@
+USE SRO_VT_SHARD
+ALTER TABLE dbo._Char ADD ItemPoints int NOT NULL DEFAULT 0;
+ALTER TABLE dbo._Guild ADD ItemPoints int NOT NULL DEFAULT 0;

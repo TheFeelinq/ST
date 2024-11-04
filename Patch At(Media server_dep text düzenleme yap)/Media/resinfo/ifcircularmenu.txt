@@ -1,0 +1,63 @@
+Interface Text
+
+
+Section = Create,"0,0,0,0","0"
+{
+	GDR_OVERLAY_TEXTURE:CIFStatic
+	{
+		ClientRect=RECT,"0,0,0,0"
+		Color=COLOR,"255,214,171,46"
+		DDJ=STRING,""
+		FontColor=COLOR,"255,255,255,255"
+		FontIndex=INTEGER,"3"
+		HAlign=INTEGER,"1"
+		ID=INTEGER,"10"
+		Rect=RECT,"0,0,0,0"
+		Style=INTEGER,"0"
+		SubSection=STRING,""
+		Text=STRING,""
+		UV_LB=POINT,"0,1"
+		UV_LT=POINT,"0,0"
+		UV_RB=POINT,"1,1"
+		UV_RT=POINT,"1,0"
+		VAlign=INTEGER,"1"
+	}
+	GDR_SLOT_TITLE:CIFStatic
+	{
+		ClientRect=RECT,"0,0,0,0"
+		Color=COLOR,"255,214,171,46"
+		DDJ=STRING,""
+		FontColor=COLOR,"255,255,255,255"
+		FontIndex=INTEGER,"4"
+		HAlign=INTEGER,"1"
+		ID=INTEGER,"12"
+		Rect=RECT,"0,105,630,0"
+		Style=INTEGER,"0"
+		SubSection=STRING,""
+		Text=STRING,""
+		UV_LB=POINT,"0,1"
+		UV_LT=POINT,"0,0"
+		UV_RB=POINT,"1,1"
+		UV_RT=POINT,"1,0"
+		VAlign=INTEGER,"1"
+	}
+	GDR_SLOT_DESC:CIFStatic
+	{
+		ClientRect=RECT,"0,0,0,0"
+		Color=COLOR,"255,214,171,46"
+		DDJ=STRING,""
+		FontColor=COLOR,"255,200,200,200"
+		FontIndex=INTEGER,"2"
+		HAlign=INTEGER,"1"
+		ID=INTEGER,"13"
+		Rect=RECT,"0,105,630,0"
+		Style=INTEGER,"0"
+		SubSection=STRING,""
+		Text=STRING,""
+		UV_LB=POINT,"0,1"
+		UV_LT=POINT,"0,0"
+		UV_RB=POINT,"1,1"
+		UV_RT=POINT,"1,0"
+		VAlign=INTEGER,"1"
+	}
+}
